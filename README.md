@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-<h3 align="center">A software engineer from Spain</h3>
-
-- 🌱 I’m currently learning **Computer Science with AI**
+- 👨‍💼 I'm a software engineer in Germany.
+- 📖 I'm a passionate about software development, artificial intelligence and embedded systems.
+- 🔭 I’m currently working on TinyML projects.
+- 🌱 I’m currently studying a master's degree in **Computer Science with Artifical Intelligence**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
