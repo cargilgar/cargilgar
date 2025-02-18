@@ -1,8 +1,9 @@
 ### Hi there 👋
 
 - 👨‍💼 I'm a software engineer based in Stuttgart, Germany.
-- 📖 I'm a passionate about software development, artificial intelligence and embedded systems.
-- 🔭 I’m currently working on TinyML projects.
+- 💡 I'm a passionate about software development, artificial intelligence and embedded systems.
+- 📖 I'm currently learning web development.
+- 🔭 I’m currently working on a full-stack web project.
 - 🌱 I hold a master's degree in **Computer Science with Artifical Intelligence**.
 
 <h3 align="left">Connect with me:</h3>
